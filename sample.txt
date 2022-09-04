@@ -1,3 +1,5 @@
 这个是test1建立的txt
 commit 记录索引的状态
 pull 添加pull的说明，第二次修改
+这个是test2建立的txt
+这个是test1建立的txt:
